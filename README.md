@@ -2,6 +2,12 @@
 
 Flask Login with Google Login Boilerplate to have a ready web app with user authentication provided by Google.
 
+Login with Google:
+![](figures/login.png) 
+
+Dashboard for the logged-in user:
+![](figures/dashboard.png)
+
 ## Technologies
 
 * [Flask](http://flask.pocoo.org/)
