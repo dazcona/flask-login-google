@@ -1,0 +1,7 @@
+Flask
+Flask-Login
+flask-WTF
+Flask-Bootstrap
+requests
+oauthlib
+pyOpenSSL
